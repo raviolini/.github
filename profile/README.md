@@ -1,3 +1,1 @@
-# raviolini organization profile readme
-
-yooooo
+<img src="https://github.com/raviolini/.github/blob/main/ravioli.png"/> 
