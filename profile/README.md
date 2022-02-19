@@ -15,14 +15,24 @@
 # Meet The Homies
  >## Founders 
  
- <img align="center" height="100" src="https://avatars.githubusercontent.com/u/56494343?v=4"/>[](https://github.com/cowdingus)
- <img align="center" height="100" src="https://avatars.githubusercontent.com/u/39640673?v=4"/>[](https://github.com/hanifanazka)
+ <a href="https://github.com/cowdingus">
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/56494343?v=4"/>
+ </a>
+ <a href="https://github.com/hanifanazka">
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/39640673?v=4"/>
+ </a>
  
  >## Coders
  
- <img align="center" height="100" src="https://avatars.githubusercontent.com/u/83068205?v=4"/>[](https://github.com/nuflakbrr)
- <img align="center" height="100" src="https://avatars.githubusercontent.com/u/68726268?v=4"/>[](https://github.com/AkuraDiary)
- <img align="center" height="100" src="https://avatars.githubusercontent.com/u/79780548?v=4"/>[](https://github.com/OrangIpa)
+ <a href="https://github.com/nuflakbrr">
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/83068205?v=4"/>
+ </a>
+ <a href="https://github.com/AkuraDiary">
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/68726268?v=4"/>
+ </a>
+ <a href="https://github.com/OrangIpa">
+  <img align="center" height="100" src="https://avatars.githubusercontent.com/u/79780548?v=4"/>
+ </a>
  
  <!--
  >## Designer 
