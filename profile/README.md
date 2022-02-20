@@ -21,9 +21,6 @@
  <a href="https://github.com/hanifanazka">
   <img align="center" height="100" src="https://avatars.githubusercontent.com/u/39640673?v=4"/>
  </a>
- 
- >## Coders
- 
  <a href="https://github.com/nuflakbrr">
   <img align="center" height="100" src="https://avatars.githubusercontent.com/u/83068205?v=4"/>
  </a>
